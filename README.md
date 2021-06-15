@@ -4,7 +4,7 @@
 You can get more information in my [Blog](https://www.utopiaxc.cn/)  
   
   
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=UtopiaXC)](https://github.com/UtopiaXC)
+[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=UtopiaXC&show_icons=true&theme=radical)](https://github.com/UtopiaXC)
 
 <!--
 **UtopiaXC/UtopiaXC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
