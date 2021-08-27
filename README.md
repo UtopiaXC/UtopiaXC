@@ -1,5 +1,5 @@
 ### Hi, I am UtopiaXC 👋
-[![](https://img.shields.io/badge/Telegram-old__salt__fish-blue)](https://t.me/old_salt_fish)
+[![](https://img.shields.io/badge/Telegram-a__salted__fish-blue)](https://t.me/a_salted_fish)
 [![](https://img.shields.io/badge/Email-UtopiaXC-yellowgreen)](mailto:utopiaxc@utopiaxc.com)  
 You can get more information in my [Blog](https://www.utopiaxc.cn/)  
   
