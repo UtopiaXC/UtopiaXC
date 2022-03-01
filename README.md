@@ -1,5 +1,5 @@
 ### Hi, I am UtopiaXC 👋
-[![](https://img.shields.io/badge/Telegram-wwwwtfffffffffffffffffff-blue)](https://t.me/burn_full_duck)
+[![](https://img.shields.io/badge/Telegram-burn_full_duck-blue)](https://t.me/burn_full_duck)
 [![](https://img.shields.io/badge/Email-UtopiaXC-yellowgreen)](mailto:utopiaxc@utopiaxc.com)  
 You can get more information in my [Blog](https://www.utopiaxc.cn/)  
   
