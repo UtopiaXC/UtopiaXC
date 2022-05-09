@@ -1,6 +1,7 @@
 <p align="center">
-  <a target="_blank" href="https://www.utopiaxc.cn/"><h2> Hi, I am UtopiaXC 👋</h2></a>
+   <img src="https://readme-typing-svg.herokuapp.com?font=Raleway&size=32&duration=10000&color=C51DB2&center=true&vCenter=true&width=1000&height=80&lines=Hi%2C+I+am+UtopiaXC.;A++green+hand+programmer%2C+third-rate+writer%2C+amateur+photographer." alt="typing-svg">
 </p>
+
 <p align="center">
 <a title="Hits" target="_blank" href="https://github.com/UtopiaXC/UtopiaXC"><img src="https://hits.b3log.org/Achuan-2/Achuan-2.svg" ></a>
 <a title="github" target="_blank" href="https://github.com/UtopiaXC"><img src="https://img.shields.io/badge/dynamic/json?label=GitHub&suffix=%20followers&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DUtopiaXC&labelColor=282c34&color=353940&logo=github&longCache=true" ></a>
@@ -13,9 +14,21 @@
     <a href="mailto:utopiaxc@utopiaxc.com"><img src="https://img.shields.io/badge/Email-UtopiaXC-yellowgreen" alt="email"/></a>
   <br>
 </p>
- 
-A fresh graduate, working for Thundersoft.  
-You can get more information in my [Blog](https://www.utopiaxc.cn/)  
+
+***  
+### About me?
+A fresh graduate, working for Thundersoft.  You can get more information at my [site](https://www.utopiaxc.cn/).  
   
-  
-[![我的 GitHub 数据](https://github-readme-stats.vercel.app/api?username=UtopiaXC&show_icons=true&theme=vue)](https://github.com/UtopiaXC)
+<div align="center">
+
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=UtopiaXC&show_icons=true&theme=vue" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtopiaXC&layout=compact&langs_count=8" />
+
+</div>
+
+<div align="center">
+    <img  src="https://github-readme-streak-stats.herokuapp.com/?user=UtopiaXC" />
+</div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=UtopiaXC&theme=minimal" />
+</div>
