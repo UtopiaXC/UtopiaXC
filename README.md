@@ -1,4 +1,7 @@
-### Hi, I am UtopiaXC 👋
+<p align="center"><img src="https://imgs.utopiaxc.cn/2021/08/28/ccd08b1e5dd5b.png" alt="logo"/></p>
+<p align="center">
+  <a target="_blank" href="https://www.utopiaxc.cn/"><h2> Hi, I am UtopiaXC 👋</h2></a>
+
 [![](https://img.shields.io/badge/Telegram-burn_full_duck-blue)](https://t.me/burn_full_duck)
 [![](https://img.shields.io/badge/Email-UtopiaXC-yellowgreen)](mailto:utopiaxc@utopiaxc.com)  
 A fresh graduate, working for Thundersoft.  
