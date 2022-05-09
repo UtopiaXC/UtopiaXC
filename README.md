@@ -1,4 +1,4 @@
-<p align="center"><img style="width=50px;height=50px" src="https://imgs.utopiaxc.cn/2021/08/28/ccd08b1e5dd5b.png" alt="logo"/></p>
+<p align="center"><img style="width=10px;height=10px" src="https://imgs.utopiaxc.cn/2021/08/28/ccd08b1e5dd5b.png" alt="logo"/></p>
 <p align="center">
   <a target="_blank" href="https://www.utopiaxc.cn/"><h2> Hi, I am UtopiaXC 👋</h2></a>
 
