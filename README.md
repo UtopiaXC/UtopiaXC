@@ -1,6 +1,6 @@
 # Hi there, I am UtopiaXC 👋
 
-<p>Hello, I am from Dalian, China, a beautiful seaside city. Now I live in Tsukuba, Ibaraki, Japan, and I am doing research here for my master's degree. I worked as a senior software engineer at ThunderSoft, leading a team to develop frameworks of smart vehicles' system. Nice to meet you all.<br>See more on my [homepage](https://www.utopiaxc.cn/) and [blog](https://blog.utopiaxc.cn/).(Chinese only, i18n is in preparation)
+<p>Hello, I am from Dalian, China, a beautiful seaside city. Now I live in Tsukuba, Ibaraki, Japan, and I am doing research here for my master's degree. I worked as a senior software engineer at ThunderSoft, leading a team to develop frameworks of smart vehicles' system. Nice to meet you all.<br>See more on my <a href="https://www.utopiaxc.cn/" target="_blank">homepage</a> and <a href="https://blog.utopiaxc.cn/" target="_blank">blog</a>.(Chinese only, i18n is in preparation)
 </p>
 
 ----
