@@ -53,14 +53,14 @@
 [![Nginx](https://img.shields.io/badge/Nginx-009639?style=plastic&logo=nginx&logoColor=white)](https://nginx.org/)
 
 ----
-### Social media
+### Social Media
 [![X](https://img.shields.io/badge/UtopiaXC-000000?style=plastic&logo=x&logoColor=ffffff)](https://x.com/UtopiaXC)
 [![Telegram](https://img.shields.io/badge/DiDiDiDaDaDi-26A5E4?style=plastic&logo=telegram&logoColor=ffffff)](https://t.me/DiDiDiDaDaDi)
 [![E-Mail](https://img.shields.io/badge/E%20Mail-EA4335?style=plastic&logo=gmail&logoColor=ffffff)](mailto:utopiaxc@utopiaxc.com)
 [![HP](https://img.shields.io/badge/HomePage-21759B?style=plastic&logo=wordpress&logoColor=ffffff)](https://www.utopiaxc.cn/)
 
 ----
-### Contact me in Languages
+### Languages
 [![Chinese](https://img.shields.io/badge/Chinese-Native-green?style=plastic&logo=googletranslate&logoColor=white)](#)
 [![English](https://img.shields.io/badge/English-Conversational-blue?style=plastic&logo=googletranslate&logoColor=white)](#)
 [![Japanese](https://img.shields.io/badge/Japanese-Basic-orange?style=plastic&logo=googletranslate&logoColor=white)](#)
